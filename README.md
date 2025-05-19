@@ -1,63 +1,64 @@
-<h1 align="center">Movie Application</h1>
+<h1 align="center">🎬 Movie - Rebahin Aja</h1>
 
 <p align="center">
-  <a href="https://faridnugraha-movie.netlify.app/">DEMO</a>
+  <a href="https://movie-rebahinaja.vercel.app/" target="_blank"><strong>🌐 Live Demo</strong></a>
 </p>
 
 <br>
 
-## :dart: About
+## 📌 Overview
 
-<p>This is a Web Movie Application, I create this app for learn develop application using React, Typescript, Vite, React Router, and Redux Toolkit</p>
-
-<br>
-
-## :gem: Features
-
-- Movie/TV show list
-- Search movie/tv show
-- Movie/TV show detail
+**Movie - Rebahin Aja** is a web-based movie and TV show application built with modern front-end technologies. This project was developed as part of my learning journey to enhance skills in React, TypeScript, Vite, and state management using Redux Toolkit.
 
 <br>
 
-## :floppy_disk: Source Data
+## ✨ Features
 
-[Movie Database API](https://api.themoviedb.org)
-
-<br>
-
-## :art: Preview
-
-<img src="https://github.com/ionivetech/movie-app/blob/main/public/screenshot/movie-list.png" alt="movie-list" />
-
-<img src="https://github.com/ionivetech/movie-app/blob/main/public/screenshot/movie-detail.jpeg" alt="movie-detail" />
+- Browse popular movies and TV shows
+- Search for specific titles
+- View detailed information for each movie or TV show
 
 <br>
 
-## :rocket: Technologies
+## 📡 Data Source
 
-The following technology were used in this project:
+This application uses the official [TMDB API](https://api.themoviedb.org) as its data provider.
 
-- [React JS](https://react.dev/)
-- [Typescript](https://www.typescriptlang.org/)
+<br>
+
+## 🖼️ Screenshots
+
+<img src="https://github.com/ionivetech/movie-app/blob/main/public/screenshot/movie-list.png" alt="Movie List Preview" />
+
+<img src="https://github.com/ionivetech/movie-app/blob/main/public/screenshot/movie-detail.png" alt="Movie Detail Preview" />
+
+<br>
+
+## 🛠️ Tech Stack
+
+This project was built using the following technologies:
+
+- [React](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 
 <br>
 
-## :checkered_flag: Installation
+## 🚀 Getting Started
+
+To run this project locally:
 
 ```bash
 # Install dependencies
-$ pnpm install
+pnpm install
 
-# Run on development
-$ pnpm dev
+# Start development server
+pnpm dev
 
-# Build application
-$ pnpm run
+# Build the project
+pnpm build
 
-# Run on production
-$ pnpm preview
-```
+# Preview the production build
+pnpm preview
